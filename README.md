@@ -1,8 +1,12 @@
 # Checkpoint 4 – Programação Dinâmica – COP30
 
 ## Grupo
-- Nome: [Preencher]
-- RA: [Preencher]
+- Nome: Vinícius Monteiro Araújo
+- RM: 555088
+- Nome: Guilherme Oliveira
+- RM: 555180 
+- Nome: Rafael Duarte de Freitas
+- RM: 558644
 
 ## Contexto
 Este projeto resolve os desafios propostos para a COP30 em Belém, comparando algoritmos de força bruta, divisão e conquista e programação dinâmica para seleção de projetos de mitigação e análise de janela de qualidade do ar.
