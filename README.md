@@ -7,6 +7,8 @@
 - RM: 555180 
 - Nome: Luiz Gustavo da Silva
 - RM: 558358
+- Nome: Vitor Bebiano Mulford
+- RM: 555026
 
 ## Contexto
 Este projeto resolve os desafios propostos para a COP30 em Belém, comparando algoritmos de força bruta, divisão e conquista e programação dinâmica para seleção de projetos de mitigação e análise de janela de qualidade do ar.
